@@ -1,0 +1,101 @@
+ID,Product,Price ($),Value for Money,Year of Launch,Total Users (millions),Total Sales (millions),Best Seller Country,Best in Tech,Practical Use Case
+1,Apple AirTag,20.93,1.5,2019,78,42,Poland,Yes,Securing school bags
+2,Apple AirTag,38.98,1.3,2019,25,34,Kenya,No,Tracking bags
+3,Apple AirTag,26.09,3.9,2019,79,63,Taiwan,No,Tracking equipment
+4,Apple AirTag,25.18,4.1,2019,76,30,Egypt,No,Tracking bags
+5,Apple AirTag,26.23,3.1,2019,29,29,South Korea,No,Finding keys
+6,Apple AirTag,38.44,2.0,2019,66,39,South Korea,No,Tracking pets
+7,Apple AirTag,21.77,2.6,2019,98,47,Argentina,Yes,Finding gadgets
+8,Apple AirTag,25.62,3.5,2019,69,37,Belgium,No,Finding bags
+9,Apple AirTag,30.85,4.5,2019,11,73,Egypt,Yes,Finding pets
+10,Apple AirTag,33.68,4.5,2020,12,70,New Zealand,No,Tracking gadgets
+11,Apple AirTag,27.77,2.2,2020,51,36,Israel,No,Finding lost items
+12,Apple AirTag,21.3,2.3,2021,20,47,Chile,Yes,Tracking gadgets
+13,Apple AirTag,21.95,3.6,2021,89,44,Poland,No,Tracking gadgets
+14,Apple AirTag,22.44,1.5,2021,68,42,Egypt,No,Tracking gadgets
+15,Apple AirTag,22.82,4.2,2021,10,78,Australia,No,Tracking luggage
+16,Apple AirTag,30.28,1.3,2022,47,33,Finland,No,Finding wallets
+17,Apple AirTag,31.85,2.4,2023,33,63,Philippines,No,Keeping track of pets
+18,Apple AirTag,36.17,2.3,2023,68,75,Philippines,No,Tracking devices
+19,Apple AirTag,27.14,4.2,2023,99,39,Indonesia,No,Locating car keys
+20,Apple AirTag,35.7,3.9,2024,65,12,Ireland,No,Finding devices
+21,Apple AirTag,23.41,3.5,2024,95,45,Nigeria,No,Tracking pets
+22,Apple AirTag,36.57,4.7,2024,25,30,Switzerland,No,Finding wallets
+23,Apple AirTag,20.11,2.3,2024,18,73,Switzerland,Yes,Finding pets
+24,Jio Tag,23.99,4.1,2019,26,29,Norway,Yes,Locating car keys
+25,Jio Tag,20.69,4.0,2019,28,42,Austria,Yes,Finding wallets
+26,Jio Tag,37.9,3.0,2019,10,68,Sweden,No,Tracking bags
+27,Jio Tag,20.9,1.9,2019,32,63,India,No,Tracking devices
+28,Jio Tag,30.4,2.7,2020,80,17,Thailand,No,Finding keys
+29,Jio Tag,35.5,3.5,2020,48,42,Belgium,Yes,Finding lost items
+30,Jio Tag,26.51,1.3,2020,40,17,Vietnam,No,Tracking gadgets
+31,Jio Tag,21.49,4.6,2020,21,57,Hong Kong,No,Finding keys
+32,Jio Tag,23.97,4.6,2020,41,44,Israel,No,Finding bags
+33,Jio Tag,32.15,4.5,2021,79,33,Japan,Yes,Tracking gadgets
+34,Jio Tag,38.79,2.3,2021,91,57,Poland,Yes,Finding lost items
+35,Jio Tag,23.92,4.0,2021,59,60,Turkey,No,Tracking devices
+36,Jio Tag,34.14,1.9,2021,57,26,Thailand,No,Tracking bags
+37,Jio Tag,28.8,2.9,2022,29,50,Nigeria,No,Tracking pets
+38,Jio Tag,38.19,3.2,2022,99,23,Turkey,Yes,Finding bags
+39,Jio Tag,30.93,1.1,2022,61,16,Israel,Yes,Tracking keys
+40,Jio Tag,23.7,1.4,2022,42,76,New Zealand,Yes,Finding pets
+41,Jio Tag,25.43,1.6,2022,16,36,India,Yes,Tracking equipment
+42,Jio Tag,35.44,4.2,2022,46,13,Philippines,Yes,Finding keys
+43,Jio Tag,36.31,1.4,2022,28,58,Nigeria,No,Finding luggage
+44,Jio Tag,31.96,4.6,2023,20,31,Austria,Yes,Tracking devices
+45,Jio Tag,39.74,3.2,2023,78,28,Peru,Yes,Tracking equipment
+46,Jio Tag,39.31,2.2,2024,82,27,Sweden,Yes,Finding luggage
+47,Jio Tag,29.9,3.9,2024,45,77,Saudi Arabia,Yes,Finding bags
+48,Jio Tag,33.25,3.0,2024,28,57,UK,No,Finding keys
+49,Jio Tag,39.39,1.1,2024,49,26,UK,No,Tracking bikes
+50,Jio Tag,36.04,1.7,2024,57,70,Pakistan,Yes,Tracking bikes
+51,Jio Tag,21.19,4.1,2020,78,56,Germany,Yes,Locating electronic gadgets
+52,Jio Tag,38.87,3.3,2022,18,64,Bangladesh,Yes,Tracking gadgets
+53,Apple AirTag,25.9,4.3,2021,34,45,Nigeria,No,Tracking bikes
+54,Apple AirTag,20.71,3.5,2020,21,66,Germany,Yes,Finding items
+55,Jio Tag,35.54,1.6,2024,62,60,Italy,Yes,Tracking gadgets
+56,Apple AirTag,22.58,3.5,2023,68,18,Egypt,Yes,Tracking pets
+57,Jio Tag,38.21,2.5,2021,96,24,Brazil,No,Tracking pets
+58,Jio Tag,35.68,4.0,2019,84,66,New Zealand,Yes,Tracking bikes
+59,Jio Tag,37.86,4.4,2024,54,25,Poland,No,Tracking valuables
+60,Jio Tag,38.45,2.8,2020,34,23,Ireland,Yes,Tracking valuables
+61,Apple AirTag,31.68,2.9,2023,92,50,Spain,Yes,Locating electronic gadgets
+62,Apple AirTag,28.13,1.1,2022,78,72,Pakistan,Yes,Finding devices
+63,Jio Tag,32.43,1.6,2020,40,73,Italy,Yes,Finding luggage
+64,Apple AirTag,23.9,2.4,2019,96,20,Indonesia,Yes,Tracking luggage
+65,Apple AirTag,27.03,1.2,2021,14,49,Singapore,Yes,Tracking luggage
+66,Apple AirTag,28.65,3.9,2023,56,11,Nigeria,Yes,Tracking medical equipment
+67,Jio Tag,32.36,3.0,2024,51,46,Sweden,Yes,Tracking pets
+68,Jio Tag,20.35,1.3,2023,37,16,Nigeria,Yes,Tracking devices
+69,Apple AirTag,38.77,2.3,2020,33,67,Pakistan,Yes,Tracking pets
+70,Jio Tag,27.01,4.9,2021,43,53,USA,Yes,Tracking gadgets
+71,Apple AirTag,29.26,1.5,2022,17,60,Portugal,Yes,Finding pets
+72,Apple AirTag,30.08,2.0,2023,76,74,Netherlands,No,Tracking bags
+73,Jio Tag,22.4,3.9,2019,58,70,Mexico,No,Locating car keys
+74,Jio Tag,29.64,4.2,2019,48,75,Switzerland,Yes,Finding luggage
+75,Jio Tag,36.42,2.8,2023,76,13,Hong Kong,Yes,Finding wallets
+76,Apple AirTag,27.44,2.4,2022,51,80,Japan,Yes,Finding pets
+77,Jio Tag,24.26,4.9,2019,82,29,Philippines,No,Tracking pets
+78,Apple AirTag,39.56,4.3,2020,30,43,South Korea,No,Finding wallets
+79,Jio Tag,23.41,1.6,2023,71,12,Italy,Yes,Tracking children
+80,Apple AirTag,25.5,4.1,2023,79,26,Poland,Yes,Finding pets
+81,Apple AirTag,31.29,2.2,2022,27,72,Ireland,No,Tracking devices
+82,Jio Tag,39.44,4.7,2024,36,52,Kenya,No,Finding wallets
+83,Jio Tag,23.08,2.6,2021,79,12,Indonesia,Yes,Tracking devices
+84,Jio Tag,26.2,3.3,2024,52,50,Australia,No,Tracking pets
+85,Jio Tag,35.65,1.4,2022,20,45,Nigeria,No,Finding luggage
+86,Jio Tag,21.46,4.3,2022,27,26,Norway,Yes,Tracking bags
+87,Jio Tag,27.21,2.4,2024,78,29,Malaysia,Yes,Tracking gadgets
+88,Apple AirTag,30.56,2.4,2020,40,22,Greece,No,Finding luggage
+89,Apple AirTag,34.54,4.9,2021,66,67,Indonesia,No,Tracking gadgets
+90,Apple AirTag,22.7,1.3,2020,89,27,Thailand,Yes,Tracking gadgets
+91,Jio Tag,38.1,1.8,2019,55,60,Ireland,Yes,Tracking gadgets
+92,Apple AirTag,37.12,2.3,2023,70,78,Peru,No,Tracking devices
+93,Apple AirTag,31.87,3.4,2023,16,48,Israel,No,Locating car keys
+94,Jio Tag,36.32,2.3,2023,60,45,UK,No,Locating electronic gadgets
+95,Apple AirTag,20.71,1.3,2019,76,53,South Africa,No,Tracking bikes
+96,Apple AirTag,21.38,4.9,2022,12,11,Switzerland,No,Finding devices
+97,Jio Tag,27.15,2.7,2024,83,53,Spain,Yes,Tracking gadgets
+98,Jio Tag,21.24,4.8,2024,21,66,Denmark,Yes,Tracking pets
+99,Apple AirTag,39.71,2.5,2022,33,48,Canada,Yes,Tracking gadgets
+100,Jio Tag,24.07,4.0,2020,92,21,Malaysia,Yes,Finding keys
